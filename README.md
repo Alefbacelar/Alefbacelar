@@ -21,10 +21,7 @@
   
   ##
   
-  ![Snake animation](https://github.com/alefbacelar/alefbacelar/blob/output/github-contribution-grid-snake.svg)
- 
-  
-  ##
+
   
   <div> 
    
