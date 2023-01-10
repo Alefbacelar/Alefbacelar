@@ -1,7 +1,7 @@
 ### Olá, eu sou o Alef ! 👋
 
 - 🔭 Desenvolvedor Front-End
-- 🌱 Estudando Typescript
+- 🌱 Estudando React
 
 <div align="center">
   <a href="https://github.com/alefbacelar">
